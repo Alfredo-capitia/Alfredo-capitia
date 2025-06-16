@@ -62,6 +62,7 @@ Sou Alfredo Capitia, desenvolvedor front-end especializado em criar interfaces i
 
 - 🔗 [BancoRadar](https://github.com/Alfredo-capitia/portal-de-consulta-bancaria) – Consulta inteligente de serviços bancários.
 - 🔗 [Sistema de Votação Escolar](https://github.com/Alfredo-capitia/votting-system-dashboard-frontend) – App de votação para feiras de projetos.
+-
 
 ## 📜 Conquistas e Certificados
 
@@ -75,6 +76,9 @@ Sou Alfredo Capitia, desenvolvedor front-end especializado em criar interfaces i
   <img src="https://github-readme-stats.vercel.app/api?username=alfredo-capitia&show_icons=true&theme=tokyonight" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredo-capitia&layout=compact&theme=tokyonight" width="48%"/>
 </div>
+   <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alfredo-capitia&theme=tokyonight&margin-w=10&row=1&column=6" />
+</p>
 
 ## 🤝 Vamos nos Conectar!
 
