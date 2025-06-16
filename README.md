@@ -60,9 +60,8 @@ Sou Alfredo Capitia, desenvolvedor front-end especializado em criar interfaces i
 
 ## 🧠 Projetos em Destaque
 
-- 🔗 [BancoRadar](https://github.com/alfredo-capitia/bancoradar) – Consulta inteligente de serviços bancários.
-- 🔗 [Simulador de Pressão Hidrostática](https://github.com/alfredo-capitia/simulador-pressao) – Ferramenta interativa para estudantes.
-- 🔗 [Sistema de Votação Escolar](https://github.com/alfredo-capitia/votacao) – App de votação para feiras de projetos.
+- 🔗 [BancoRadar](https://github.com/Alfredo-capitia/portal-de-consulta-bancaria) – Consulta inteligente de serviços bancários.
+- 🔗 [Sistema de Votação Escolar](https://github.com/Alfredo-capitia/votting-system-dashboard-frontend) – App de votação para feiras de projetos.
 
 ## 📜 Conquistas e Certificados
 
@@ -83,7 +82,7 @@ Sou Alfredo Capitia, desenvolvedor front-end especializado em criar interfaces i
   <a href="mailto:delciiocapitia676@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/<LevelUp/>">
+  <a href="https://discord.com/users/951616297">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://github.com/alfredo-capitia">
