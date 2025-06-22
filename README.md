@@ -1,7 +1,7 @@
 <!-- README personalizado de Alfredo Capitia -->
 
 <h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=800&color=00F7FF&center=false&vCenter=true&repeat=true&width=900&lines=Alfredo+Capitia+Front-end+Developer;Apaixonado+por+UI%2FUX+e+Tecnologia;React+%7C+Next.js+%7C+Tailwind+%7C+TypeScript+e+mais..."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=800&color=00F7FF&center=false&vCenter=true&repeat=true&width=900&lines=Eu+sou+Alfredo+Capitia+Front-end+Developer;Apaixonado+por+UI%2FUX+e+Tecnologia;React+%7C+Next.js+%7C+Tailwind+%7C+TypeScript+e+mais..."/>
 </h1>
 <!-- Fundo animado via SVG ou CSS -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" style="position: absolute; top: 0; left: 0; z-index: -1;" />
