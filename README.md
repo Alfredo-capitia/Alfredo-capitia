@@ -1,7 +1,7 @@
 <!-- README personalizado de Alfredo Capitia -->
 
 <h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=800&color=00F7FF&center=false&vCenter=true&repeat=true&width=900&lines=Eu+sou+Alfredo+Capitia+Front-end+Developer;Apaixonado+por+UI%2FUX+e+Tecnologia;React+%7C+Next.js+%7C+Tailwind+%7C+TypeScript+e+mais..."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=800&color=00F7FF&center=false&vCenter=true&repeat=true&width=900&lines=Eu+sou+Alfredo+Capitia;Software+Engineer+%7C+Frontend+%26+DevOps;React+%7C+Next.js+%7C+Docker+%7C+CI%2FCD;Apaixonado+por+UI%2FUX+e+Tecnologia;Luanda%2C+Angola+🇦🇴"/>
 </h1>
 <!-- Fundo animado via SVG ou CSS -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" style="position: absolute; top: 0; left: 0; z-index: -1;" />
@@ -10,7 +10,14 @@
 
 ## 🌟 Sobre Mim
 
-Sou Alfredo Capitia, desenvolvedor front-end especializado em criar interfaces interativas, responsivas e intuitivas. Meu foco é construir aplicações modernas com atenção a performance, estética e acessibilidade.
+Sou Alfredo Capitia, Frontend Developer && Devops com 2+ anos
+de experiência construindo interfaces modernas com
+React, Next.js e TypeScript.
+
+Actualmente expandindo para DevOps —
+Docker, CI/CD e Linux. 🚀
+
+Luanda, Angola 🇦🇴
 
 ## 👀 Profile Views
 
@@ -42,6 +49,10 @@ Sou Alfredo Capitia, desenvolvedor front-end especializado em criar interfaces i
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ### 🧪 Testing
