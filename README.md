@@ -1,110 +1,23 @@
-<!-- README personalizado de Alfredo Capitia -->
+# Hi, I’m Alfredo Capitia
 
-<h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=800&color=00F7FF&center=false&vCenter=true&repeat=true&width=900&lines=Eu+sou+Alfredo+Capitia;Software+Engineer+%7C+Frontend+%26+DevOps;React+%7C+Next.js+%7C+Docker+%7C+CI%2FCD;Apaixonado+por+UI%2FUX+e+Tecnologia;Luanda%2C+Angola+🇦🇴"/>
-</h1>
-<!-- Fundo animado via SVG ou CSS -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" style="position: absolute; top: 0; left: 0; z-index: -1;" />
+Self-taught student transitioning into DevOps Engineering.
 
+I’m passionate about understanding how systems work behind the interface — how code becomes infrastructure, and how everything can be automated to scale efficiently.
 
+I’m focused on building a strong foundation in DevOps, exploring real-world practices in automation, CI/CD, and modern infrastructure.
 
-## 🌟 Sobre Mim
+## About Me
 
-Sou Alfredo Capitia, Frontend Developer && Devops com 2+ anos
-de experiência construindo interfaces modernas com
-React, Next.js e TypeScript.
+* 🔁 Transitioning into DevOps Engineering
+* ⚙️ Focused on automation, infrastructure, and continuous delivery
+* 🚀 Learning by building real systems
 
-Actualmente expandindo para DevOps —
-Docker, CI/CD e Linux. 🚀
+## Mindset
 
-Luanda, Angola 🇦🇴
+Automation is not about doing less — it’s about building systems that don’t depend on you to function.
 
-## 👀 Profile Views
+## Final Thought
 
-![Profile Views](https://komarev.com/ghpvc/?username=alfredo-capitia&color=blue)
-
-## 💻 Technical Skills
-
-### 📜 Languages & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Astro-E23F6D?style=for-the-badge&logo=astro&logoColor=fff"/>
-</p>
-
-### 🎨 Styling Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff" />
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=fff" />
-  <img src="https://img.shields.io/badge/StyledComponents-db7093?style=for-the-badge&logo=styled-components&logoColor=fff" />
-</p>
-
-### ⚙️ DevOps & Deployment
-<p align="left">
-  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-### 🧪 Testing
-<p align="left">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
-</p>
-
-### 🧰 Other Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Retool-0018A8?style=for-the-badge&logo=retool&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-</p>
-
-## 🧠 Projetos em Destaque
-
-- 🔗 [BancoRadar](https://github.com/Alfredo-capitia/portal-de-consulta-bancaria) – Consulta inteligente de serviços bancários.
-- 🔗 [Sistema de Votação Escolar](https://github.com/Alfredo-capitia/votting-system-dashboard-frontend) – App de votação para feiras de projetos.
--
-
-## 📜 Conquistas e Certificados
-
-- 🏅 Certificado React Avançado – Origamid
-- 🏅 Certificado UI/UX Design – Coursera
-- 🏅 Certificado Front-end Angular & React – Udemy
-
-## 📊 GitHub Analytics
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfredo-capitia&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredo-capitia&layout=compact&theme=tokyonight" width="48%"/>
-</div>
-   <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alfredo-capitia&theme=tokyonight&margin-w=10&row=1&column=6" />
-</p>
-
-## 🤝 Vamos nos Conectar!
-
-<p align="left">
-  <a href="mailto:delciiocapitia676@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/951616297">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://github.com/alfredo-capitia">
-    <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-> “Transformando ideias em interfaces. Código com design, propósito e amor.”
+Start simple.
+Automate what you repeat.
+And think like a system, not just like a developer.
